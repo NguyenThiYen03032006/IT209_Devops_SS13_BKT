@@ -1,0 +1,22 @@
+# --- Build artifacts ---
+build/
+.gradle/
+
+# --- IDE & OS files ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+Thumbs.db
+
+# --- Git ---
+.git/
+.gitignore
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Docs ---
+*.md
